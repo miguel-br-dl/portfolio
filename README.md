@@ -9,19 +9,20 @@
 
 Este portfólio foi montado com base no curso do professor Denis Troquatte.
 
-## :custard: Acesse o GhPages
+## :custard: GhPages do Professor
 
 <strong>Link:</strong> https://troquatte.github.io/curso-angular-portfolio/browser/
 
-## :custard: Aprenda a subir o seu código no ghPages
+## :custard: Meu Gh Pages
+
+<strong>Link:</strong> https://miguel-br-dl.github.io/portfolio/browser/
+
+## :custard: Para subir o código no ghPages
 
 <strong>Adicione ao seu projeto:</strong> ng add angular-cli-ghpages
 <br>
 
 <strong>Faça o deploy:</strong> ng deploy --base-href https://SEU_PERFIL_GITHUB.github.io/SEU_REPO_GITHUB/browser/
 
-<strong>Exp.:</strong> ng deploy --base-href https://troquatte.github.io/curso-angular-portfolio/browser/
-
 ---
 
-Com ♥ Dener Troquatte :wave: [Linkedin](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog](https://vidafullstack.com.br/)
