@@ -14,45 +14,87 @@ export class ExperiencesComponent {
   public arrayExperiences = signal<IExperiences[]>([
     {
       summary: {
-        strong: 'Front-end Especialista',
-        p: 'ZUP | Set 2020 - Present',
+        strong: 'TDD Java',
+        p: 'TJPR | 2025 - Present',
       },
-      text: '<p>Desde setembro de 2020, atuo como Analista de Sistema Especialista na ZUP, destacando-me nas áreas Front-end, utilizando Html5, Css3, Javascript, TypeScript, Angular 2+, Angular Material e NgRx, e Back-end, onde o NodeJs é aplicado em Provas de Conceito, caso necessário.</p> <p>Além disso, minha experiência abrange a integração com Micro Serviços, Docker, GitLab, Jira e Scrum. Atualmente, enfrento o desafio significativo de contribuir para o desenvolvimento do Open Finance para o Banco Itaú, alcançando sucesso ao implementar a ferramenta em conformidade com os marcos regulatórios.</p> <p>Destaco também a criação de componentes altamente reutilizáveis e personalizáveis no front-end, utilizando Angular, como parte do nosso compromisso com a eficiência e a qualidade do código.</p>',
+      text: '<p>Desde o início de 2025 retorno às origens, como Analista de Sistema, aprimorando meu conhecimento em Desenvolvimento Orientado a Teste (TDD)</p>',
     },
     {
       summary: {
-        strong: 'Fullstack Developer',
-        p: 'Everis | Out 2019 - set 2020',
+        strong: 'Banco de Robôs - Inteligência Artificial Generativa',
+        p: 'TJPR | 2022-2024'
       },
-      text: '<p>Durante meu período na Everis de outubro de 2019 a setembro de 2020, atuei como Analista de Sistema, liderando e desenvolvendo equipes.</p> <p>Minhas responsabilidades no front-end incluíram o uso de Html5, Css3, Javascript, TypeScript, Angular, Angular Material e NgRx, enquanto no back-end, trabalhei com NodeJs (Express/NestJs), Sequelize/TypeOrm, MongoDb, MariaDb e Redis.</p> <p>Além disso, liderei integrações com Micro Serviços, Jenkins, Gcloud, Kubernetes e Docker, utilizando ferramentas como GitLab, Jira e Scrum.</p> <p>Durante esse período, enfrentei e superei desafios significativos, destacando-se o desenvolvimento de um ChatBot.</p> <p>Como resultado, fui promovido a Líder da Squad Fullstack Angular/NodeJs, conduzi melhorias contínuas em um sistema legado e aprimorei minhas habilidades nos processos do GitFlow.</p>',
+      text: '<p>TODO</p>',
     },
     {
       summary: {
-        strong: 'Consultor Web',
-        p: 'Consultor Web | Set 2018 - Set 2019',
+        strong: 'Larry Assessor-IAA - Treinamento de modelos - Inteligência Artificial (clássica)',
+        p: 'TJPR | 2021-2022'
       },
-      text: '<p>Em minha jornada como consultor web, tive a oportunidade de ser a ponte para várias empresas embarcarem no universo online.</p> <p>Por meio de projetos cuidadosamente elaborados, explorei o vasto espectro do desenvolvimento front-end, utilizando Html5, Css3, Javascript, TypeScript, Angular e Angular Material.</p> <p>Nos bastidores, no back-end, construí robustas infraestruturas com NodeJs (Express/NestJs), Sequelize/TypeOrm e integrações eficientes com bancos de dados MySql/Postgress.</p>',
+      text: '<p>TODO</p>',
     },
     {
       summary: {
-        strong: 'Fullstack Developer',
-        p: 'MKTEW21 |  Set 2016 - Set 2018',
+        strong: 'Larry 1G - Estatísticas e Mineração de dados',
+        p: 'TJPR | 2019-2020'
       },
-      text: '<p>Minha jornada na empresa mktew21 foi um verdadeiro mergulho no mundo fullstack, onde absorvi conhecimentos em diversas tecnologias.</p> <p>Foi um período de aprendizado intenso no desenvolvimento end-to-end, abrangendo a criação de aplicativos híbridos, desktop e web.</p> <p>E nesse cenário dinâmico que tomei a decisão de direcionar meu foco para as tecnologias NodeJs, TypeScript e Angular.</p> <p>No front-end, explorei as ferramentas Html5, Css3, Javascript, TypeScript, Angular e Angular Material, enquanto nos bastidores, no back-end, estive envolvido com NodeJs (Express), Sequelize, Laravel (PHP) e integrações com bancos de dados MySql/Postgress.</p>',
+      text: '<p>TODO</p>',
     },
     {
       summary: {
-        strong: 'Decolar.com Front-end',
-        p: 'Decolar.com | Set 2014 - Set 2016',
+        strong: 'CONAN Eleitoral',
+        p: 'TJPR | 2019'
       },
-      text: '<p>Durante minha passagem pelo Decolar.com, dediquei-me intensamente à criação e atualização de páginas de vendas, além de colaborar com o departamento de Recursos Humanos na implementação de um sistema de gestão de vagas.</p> <p>Extendendo minha contribuição a diversos setores, como marketing, vendas, entre outros, empreguei as tecnologias da época no desenvolvimento, incluindo Html5, Css3, Javascript, Jquery e AngularJS no front-end, e PHP no back-end.</p>',
+      text: '<p>TODO</p>',
     },
     {
       summary: {
-        strong: 'EW21 Front-end',
-        p: 'EW21 | Mar 2013 - Set 2014',
+        strong: 'SDP',
+        p: 'TJPR | 2018 - 2020'
       },
-      text: '<p>No ew21, marco inicial da minha trajetória profissional, mergulhei em um aprendizado abrangente que englobava não apenas front-end, design e backend, mas também incluía domínio em tecnologias como Flash e muito mais.</p> <p>Essa empresa se revelou uma verdadeira escola inicial, onde absorvi conhecimentos variados. No front-end, desenvolvi habilidades com Html5, Css3, Javascript, Jquery e Wordpress, enquanto no back-end, explorei PHP, Cake (PHP) e integrações com bancos de dados MySql.</p>',
+      text: '<p>TODO</p>',
+    },
+    {
+      summary: {
+        strong: 'GAJUS',
+        p: 'TJPR | 2017'
+      },
+      text: '<p>TODO</p>',
+    },
+    {
+      summary: {
+        strong: 'CAJU',
+        p: 'TJPR | 2016'
+      },
+      text: '<p>TODO</p>',
+    },
+    {
+      summary: {
+        strong: 'Cível Papel',
+        p: 'TJPR | 2012 - 2019'
+      },
+      text: '<p>TODO</p>',
+    },
+    {
+      summary: {
+        strong: 'Jurisprudência',
+        p: 'TJPR | 2008 - 2012'
+      },
+      text: '<p>TODO</p>',
+    },
+    {
+      summary: {
+        strong: 'Banco de sentenças',
+        p: 'TJPR | 2008 - 2012'
+      },
+      text: '<p>TODO</p>',
+    },
+    {
+      summary: {
+        strong: 'TJPR-Athos e e-DJ',
+        p: 'TJPR | 2007 - 2008'
+      },
+      text: '<p>Em 2007 iniciei minha trajetória como servidor público no cargo de analista de sistemas no Tribunal de Justiça do Estado do Paraná (TJPR). Nesse período, auxiliei no desenvolvimento, manutenção e suporte a sistemas judiciais e administrativos, atuando diretamente na modernização tecnológica do órgão. Meu trabalho envolveu desde a análise de requisitos até a implementação de soluções que otimizassem os fluxos internos e atendessem às demandas do Poder Judiciário.</p><p> Um dos projetos mais relevantes em que estive envolvido foi o desenvolvimento do Diário da Justiça Eletrônico do Estado do Paraná. Essa iniciativa representou um marco na digitalização da comunicação oficial do TJPR, substituindo a publicação impressa feita pela Imprensa Oficial do Estado. O projeto exigiu uma abordagem multidisciplinar, envolvendo integração com outros sistemas jurídicos e administrativos</p><p> O impacto do Diário da Justiça Eletrônico foi significativo, tanto em termos de eficiência quanto de economia. A eliminação da dependência da imprensa oficial resultou em uma expressiva redução de custos para o Judiciário paranaense, além de acelerar a divulgação de atos processuais e administrativos. Essa transformação digital contribuiu para maior transparência, acessibilidade e celeridade na prestação jurisdicional, consolidando-se como uma referência para o Departamento de Tecnologia. </p>',
     },
   ]);
 }

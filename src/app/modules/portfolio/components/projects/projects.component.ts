@@ -24,17 +24,32 @@ export class ProjectsComponent {
 
   public arrayProjects = signal<IProjects[]>([
     {
-      src: 'assets/img/projects/vfull.png',
-      alt: 'Projeto Vida FullStack',
-      title: 'Vida FullStack',
-      with: '100px',
-      height: '51px',
+      src: 'assets/img/projects/edj.png',
+      alt: 'Projeto e-DJ',
+      title: 'Diário da Justiça Eletrônico',
+      with: '150px',
+      height: '92px',
       description:
-        '<p>Explore o fascinante mundo do desenvolvimento web no meu blog dedicado exclusivamente ao ecossistema Angular, Front-end, JavaScript, Node.js e TypeScript.</p> <p>Desvende os segredos por trás da construção de interfaces modernas, aprimore suas habilidades de programação front-end quanto back-end e mergulhe em conceitos avançados de JavaScript e TypeScript.</p>',
+        '<p>TODO</p>',
       links: [
         {
-          name: 'Conheça o Blog',
-          href: 'https://vidafullstack.com.br',
+          name: 'Conheça o e-DJ',
+          href: 'https://www.tjpr.jus.br/diario-da-justica',
+        },
+      ],
+    },
+    {
+      src: 'assets/img/projects/larry.png',
+      alt: 'Larry Assessor-IAA',
+      title: 'Larry Assessor-IAA',
+      with: '92px',
+      height: '92px',
+      description:
+        '<p>TODO</p>',
+      links: [
+        {
+          name: 'Conheça o Larry Assessor-IAA',
+          href: 'https://www.tjpr.jus.br/destaques/-/asset_publisher/1lKI/content/robo-larry-assessor-iaa-traz-inteligencia-artificial-para-os-recursos-especiais-e-extraordinarios/18319',
         },
       ],
     },

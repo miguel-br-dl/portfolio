@@ -4,6 +4,7 @@
     @for(item of arrayKnowledge(); track item){
     <li>
       <img
+        [title]="item.alt"
         [src]="item.src"
         [alt]="item.alt"
         loading="lazy"

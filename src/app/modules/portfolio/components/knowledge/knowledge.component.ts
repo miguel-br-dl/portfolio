@@ -17,6 +17,10 @@ export class KnowledgeComponent {
       alt: 'Ícone de conhecimento de html5',
     },
     {
+      src: 'assets/icons/knowledge/java.svg',
+      alt: 'Ícone de conhecimento de Java',
+    },
+    {
       src: 'assets/icons/knowledge/css3.svg',
       alt: 'Ícone de conhecimento de css3',
     },
@@ -29,8 +33,8 @@ export class KnowledgeComponent {
       alt: 'Ícone de conhecimento de angular',
     },
     {
-      src: 'assets/icons/knowledge/nodejs.svg',
-      alt: 'Ícone de conhecimento de nodejs',
+      src: 'assets/icons/knowledge/python.svg',
+      alt: 'Ícone de conhecimento de Python',
     },
   ]);
 }

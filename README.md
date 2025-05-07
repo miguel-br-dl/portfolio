@@ -1,14 +1,13 @@
 <h1 align="center">
   <img src="https://vidafullstack.com.br/wp-content/uploads/2020/07/angular.png" alt="" width="150">
   <br>
-    Projeto Prático: Portfólio
+    Portfólio
   <br>
-  https://troquatte.github.io/curso-angular-portfolio/browser/
 </h1>
 
 ## :custard: Descrição
 
-Use este código para fazer consultas caso tenha dúvidas no curso.
+Este portfólio foi montado com base no curso do professor Denis Troquatte.
 
 ## :custard: Acesse o GhPages
 
